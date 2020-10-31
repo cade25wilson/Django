@@ -2,6 +2,10 @@
 <h1>Django challenges</h1>
 Basic projects using the Django framework 
 
+<h2>Projects</h2>
+<a href="https://github.com/cade25wilson/Django/tree/main/DjangoUniversity">Django University></a>
+<a href="https://github.com/cade25wilson/Django/tree/main/checkbook>Checkbook</a>
+
 <h3>DjangoUniversity</h3>
 DjangoUniversity is a basic admin page setup to create new courses at an imaginary school
 
