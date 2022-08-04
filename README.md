@@ -1,5 +1,5 @@
 # Django
-<h1>Django challenges</h1>
+<h1>Django assignments from tech academy</h1>
 Basic projects using the Django framework 
 
 <h2>Projects</h2>
